@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\thirdproj\bin\Debug\thirdproj.exe.config
+C:\Users\ADMIN\source\repos\thirdproj\bin\Debug\thirdproj.exe
+C:\Users\ADMIN\source\repos\thirdproj\bin\Debug\thirdproj.pdb
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.Form1.resources
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.exe
+C:\Users\ADMIN\source\repos\thirdproj\obj\Debug\thirdproj.pdb

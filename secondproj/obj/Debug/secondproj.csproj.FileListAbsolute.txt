@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\secondproj\bin\Debug\secondproj.exe.config
+C:\Users\ADMIN\source\repos\secondproj\bin\Debug\secondproj.exe
+C:\Users\ADMIN\source\repos\secondproj\bin\Debug\secondproj.pdb
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.Form1.resources
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.exe
+C:\Users\ADMIN\source\repos\secondproj\obj\Debug\secondproj.pdb

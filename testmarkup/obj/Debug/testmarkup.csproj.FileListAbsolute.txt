@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\testmarkup\bin\Debug\testmarkup.exe.config
+C:\Users\ADMIN\source\repos\testmarkup\bin\Debug\testmarkup.exe
+C:\Users\ADMIN\source\repos\testmarkup\bin\Debug\testmarkup.pdb
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.Form1.resources
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.exe
+C:\Users\ADMIN\source\repos\testmarkup\obj\Debug\testmarkup.pdb
